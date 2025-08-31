@@ -2,7 +2,7 @@ const TailwindcssColors = () => {
   return (
     <>
       <div className="">
-        <h1 className="text-7xl font-bold">Chapter 1</h1>
+        <h1 className="text-7xl font-bold">Chapter 1 - Colors</h1>
         <br />
         {/**1. Colors with different shades */}
         {/**https://tailwindcss.com/docs/colors */}
