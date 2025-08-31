@@ -1,2 +1,0 @@
-# tailwindcss-workshop
-learning tailwindcss
