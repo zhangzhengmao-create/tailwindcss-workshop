@@ -1,7 +1,7 @@
 const TailwindcssContainerAndSpacing = () => {
   return (
     <div className="">
-      <h1 className="text-7xl font-bold">Chapter 2</h1>
+      <h1 className="text-7xl font-bold">Chapter 2 - Container and Spacing</h1>
       <br />
       {/**1. Margins */}
       {/**https://tailwindcss.com/docs/margin */}
